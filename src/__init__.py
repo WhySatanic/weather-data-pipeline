@@ -1,0 +1,1 @@
+"""Weather pipeline application code."""
